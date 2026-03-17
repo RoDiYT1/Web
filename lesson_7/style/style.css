@@ -1,0 +1,36 @@
+html{
+    background-color: #C9A5AA;
+}
+nav{
+    width: 900px;
+    margin: auto;
+    padding: 1px;
+    border-radius: 8px;
+}
+nav, div{
+    background-color: #F4D3D3;
+}
+
+main{
+    width: 800px;
+    margin: 16px auto;
+    padding: 50px;
+    background-color: #FFFFFF !important;
+    border-radius: 8px;
+}
+article{
+background-color: #FFFFFF !important;
+}
+ul>li{
+    display: inline;
+}
+img{
+    width: 680px;
+    height: auto;
+    margin: auto;
+}
+.imgd{
+    width: 700px;
+    padding: 30px;
+    border-radius: 8px;
+}
