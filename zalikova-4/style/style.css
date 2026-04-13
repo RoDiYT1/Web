@@ -1,0 +1,134 @@
+*{
+    font-family: "Karla", sans-serif;
+}
+.logo h3{
+    display: inline;
+}
+.cart svg{
+    display:inline;
+}
+.cart p{
+    display:inline;
+}
+header {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+
+.millenialahhheader{
+    background-image: url("../image/1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -600px;
+    height: 530px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.millenialahhheader p{
+    color: white;
+    display: block;
+}
+.millenialahhheader h1{
+    color: white;
+}
+.millenialahhheader img{
+    }
+.millenialahhheader .white{
+    background-color: white;
+    color: black !important;
+    padding: 7px 10px;
+}
+main{
+    margin-left: 250px;
+    margin-right: 250px;
+
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.maintoptext{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+.readbuton{
+    border: none;
+    color: #A25F4B;
+    text-decoration: underline;
+    margin: 30px;
+}
+.mugfeat{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.bc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 653px;
+    width: 480px;
+.bc p{
+    display: block;
+}
+}
+.bc img{
+    height: 540px;
+    width: auto;
+    display: inline;
+}
+.price{
+    color: #1D1F2E;
+    opacity: 0.4;
+    display: block !important;
+}
+.mugfeat span p{
+    display: block;
+}
+.crprice{
+    color: #1D1F2E;
+    opacity: 0.4;
+    display: inline !important;
+}
+.actualprice{
+    color: #A25F4B;
+}
+.ptop{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
+.c{
+    margin: 5px;
+}
+.c p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.crprice2{
+    color: #1D1F2E;
+    opacity: 0.4;
+}
+.moremugs{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: 200px;
+    margin-left: 200px;
+}
